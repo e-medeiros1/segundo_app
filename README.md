@@ -5,8 +5,10 @@ Contém o uso do Scaffold, Container, AppBar, BottomNavigationBar, Row, PageViwe
 
 Versão 1.0.1  
 
-![image](https://user-images.githubusercontent.com/73318684/139732755-76a5b886-55fb-4247-a7f3-61a0eff93e23.png)
-![image](https://user-images.githubusercontent.com/73318684/139732774-846a72af-54e1-4764-b59f-c7ff9b02644b.png)
+![image](https://user-images.githubusercontent.com/73318684/139732893-bdb46670-81ae-40e1-8e39-cb1ec520aac3.png) 
+![image](https://user-images.githubusercontent.com/73318684/139733175-272ab323-0396-40b5-a064-fc9a7b084944.png)
+
+ 
 
 
 
