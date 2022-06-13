@@ -3,7 +3,7 @@
 ## Versão 1.0.1  
 Aplicativo sendo construído com o que estou aprendendo no flutter  
 
-- Contém o uso do Scaffold, Container, AppBar, BottomNavigationBar, Row, PageViwe, ListTile, ListView e Drawer  
+- Contém o uso do Scaffold, Container, AppBar, BottomNavigationBar, Row, PageView, ListTile, ListView e Drawer  
 
 
 
